@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>images/menu.png</file>
+        <file>SettingWindow.qml</file>
+        <file>images/left-arrow.png</file>
+        <file>Toast.qml</file>
+        <file>ToastManager.qml</file>
+    </qresource>
+</RCC>
